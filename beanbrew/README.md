@@ -14,14 +14,6 @@ React + Tailwind CSS ile geliştirilmiş kahve sipariş yönetim uygulaması.
 
 - ReactJS (useState, useEffect)
 - Tailwind CSS
-- Netlify (deploy)
-
-## Kurulum
-
-```bash
-npm install
-npm start
-```
 
 ## Proje Yapısı
 
