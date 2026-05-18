@@ -1,6 +1,6 @@
 # ☕ Bean Brew — Kahve Sipariş Yönetim Uygulaması
 
-> TNC Group Web Geliştirme: JavaScript Eğitimi — Bitirme Projesi
+
 
 React ve Tailwind CSS ile geliştirilmiş, tam işlevsel bir kahve sipariş yönetim uygulaması.
 
