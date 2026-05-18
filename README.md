@@ -5,13 +5,17 @@
 React ve Tailwind CSS ile geliştirilmiş, tam işlevsel bir kahve sipariş yönetim uygulaması.
 
 🔗 **Canlı Demo:** [beanbrew.netlify.app](https://beanbrew.netlify.app)  
-📁 **GitHub:** [github.com/Akmer38/Beanbrew-](https://github.com/Akmer38/Beanbrew-)
-
 ---
 
 ## 📸 Ekran Görüntüsü
 
-> _(Buraya bir ekran görüntüsü ekle: GitHub'da bu dosyayı düzenlerken görseli sürükle bırak)_
+<img width="1911" height="962" alt="Uygulama ekran görüntüsü 1" src="https://github.com/user-attachments/assets/cc90b320-ee5e-41ba-9dd5-dd603c921fbe" />
+
+
+<img width="798" height="927" alt="Uygulama ekran görüntüsü 2" src="https://github.com/user-attachments/assets/c97fdcdb-a553-4682-b272-5425b9dc2a85" />
+
+
+<img width="689" height="705" alt="Uygulama ekran görüntüsü 3" src="https://github.com/user-attachments/assets/b0251228-ef53-4db6-84f4-11adbd48ca43" />
 
 ---
 
@@ -45,19 +49,19 @@ Yönergede belirtildiği üzere `components`, `pages` ve `interfaces` klasörler
 ```
 beanbrew/
 └── src/
-    ├── components/          # Tekrar kullanılabilir UI bileşenleri
-    │   ├── Navbar.jsx       # Üst navigasyon, sepet butonu
-    │   ├── CoffeeForm.jsx   # Ekle / Güncelle formu
-    │   ├── CoffeeCard.jsx   # Kahve listesi kartı
-    │   ├── SearchBar.jsx    # Arama ve kategori filtresi
-    │   └── Cart.jsx         # Sepet paneli + afiyet olsun ekranı
-    ├── pages/               # Sayfa bileşenleri
-    │   └── HomePage.jsx     # Ana sayfa — tüm CRUD işlemleri
-    ├── interfaces/          # Veri tipleri ve yardımcı hooklar
-    │   ├── Coffee.js        # Kahve veri yapısı, sabitler
-    │   └── useLocalStorage.js  # LocalStorage custom hook
-    ├── App.js               # Kök bileşen, state yönetimi
-    └── index.css            # Tailwind direktifleri, Google Font
+    ├── components/        
+    │   ├── Navbar.jsx   
+    │   ├── CoffeeForm.jsx   
+    │   ├── CoffeeCard.jsx  
+    │   ├── SearchBar.jsx  
+    │   └── Cart.jsx         
+    ├── pages/               
+    │   └── HomePage.jsx  
+    ├── interfaces/     
+    │   ├── Coffee.js   
+    │   └── useLocalStorage.js 
+    ├── App.js             
+    └── index.css            
 ```
 
 ---
@@ -68,25 +72,6 @@ beanbrew/
 - Node.js (v16+)
 - npm
 
-### Adımlar
-
-```bash
-# 1. Repoyu klonla
-git clone https://github.com/Akmer38/Beanbrew-.git
-
-# 2. Proje klasörüne gir
-cd Beanbrew-/beanbrew
-
-# 3. Bağımlılıkları yükle
-npm install
-
-# 4. Geliştirme sunucusunu başlat
-npm start
-```
-
-Tarayıcıda `http://localhost:3000` adresini aç.
-
----
 
 ## 📋 Proje Gereksinimleri Kontrol Listesi
 
@@ -106,10 +91,4 @@ Yönergede istenen tüm maddeler tamamlanmıştır:
 
 ---
 
-## 👨‍💻 Geliştirici
 
-**Akın Mert** — [github.com/Akmer38](https://github.com/Akmer38)
-
----
-
-*TNC Group Web Geliştirme: JavaScript Eğitimi — 2025*
